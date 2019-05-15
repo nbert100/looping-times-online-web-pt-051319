@@ -1,7 +1,7 @@
 def using_times
   7.times do
-return "Wingardium Leviosa"
+puts "Wingardium Leviosa"
 end
 
-
+return using_times
 
